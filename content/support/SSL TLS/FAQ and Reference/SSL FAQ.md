@@ -156,3 +156,9 @@ We recommend either :
 OR
 
 -   Advanced Certificate Manager or Custom Certificate using a different CA other than Let's Encrypt
+
+___
+
+## Why don't I see SSL Options in Page Rules?
+
+Automatic HTTPS Rewrites and Always Use HTTPS do not show up on the list of Page Rules options when there is no certificate
